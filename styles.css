@@ -1,0 +1,104 @@
+body{
+    background-color: #0E0716;
+}
+
+.cabecera{
+    margin: -8px;
+}
+
+.topo{
+    background-color: #1E122C;
+    color: #fff;
+    padding: 0px;
+    text-align: center;
+    border: 0px;   
+}
+
+.name-card{
+    font-size: 24px;
+    font-weight: bold;
+    padding-right: 0px;
+    max-width: 30%;
+}
+
+.perfil{
+    margin-top: 35px;
+    padding-right: 10px;
+    max-width: 50px;
+    height: auto;
+    float: right;
+}
+
+.img-menu{
+    max-width: 50px;
+    height: auto;
+    float: left;
+    margin-top: 35px;
+    padding-left: 10px;
+
+}
+
+#a{
+    font-family: "Rye", serif;
+    color: #C89445;
+}
+
+.dados{
+    font-family: "Cinzel Decorative", serif;
+    color: #E4DBEC;
+    background-color: #1E122C;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+    clip-path: polygon(10% 10%, 100% 0, 90% 100%, 0 100%);
+    
+}
+
+.botoes{    
+    background-color: #1E122C;
+    border-radius: 10px;
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+    clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 90%);
+}
+
+.botao{
+    font-family: "Cinzel Decorative", serif;
+    background-color: #1E122C;
+    color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.botao:hover{
+    background-color: #C89445;
+    color: #9F51D6;
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
+
+#missao{
+    font-family: "Cinzel Decorative", serif;
+    background-color: #1E122C;
+    color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    padding-left: 148px;
+    padding-right: 148px;
+}
+
+#missao:hover{
+    color: #C89445;
+    background-color: #9F51D6;
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
