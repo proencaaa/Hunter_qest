@@ -1,3 +1,7 @@
+/* 
+    cabeçalho do site
+*/
+
 body{
     background-color: #0E0716;
 }
@@ -43,6 +47,8 @@ body{
     color: #C89445;
 }
 
+
+/* parte principal */
 .dados{
     font-family: "Cinzel Decorative", serif;
     color: #E4DBEC;
